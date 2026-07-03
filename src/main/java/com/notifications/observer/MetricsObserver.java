@@ -1,7 +1,7 @@
-package main.java.observer;
+package main.java.com.notifications.observer;
 
 
-import main.java.model.NotificationStatus;
+import main.java.com.notifications.model.NotificationStatus;
 
 public class MetricsObserver implements NotificationObserver {
     
