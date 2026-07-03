@@ -1,4 +1,4 @@
-package main.java.decorator;
+package com.notifications.decorator;
 
 // Clase abstracta base para todos los decoradores
 

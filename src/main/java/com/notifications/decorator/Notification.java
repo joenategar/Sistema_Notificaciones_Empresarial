@@ -1,6 +1,6 @@
 package com.notifications.decorator;
-import main.java.com.notifications.model.NotificationStatus;
-import main.java.observer.NotificationObserver;
+import com.notifications.model.NotificationStatus;
+import com.notifications.observer.*;
 import java.util.ArrayList;
 import java.util.List;
 

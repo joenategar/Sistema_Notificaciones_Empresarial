@@ -1,4 +1,4 @@
-package main.java.com.notifications.decorator;
+package com.notifications.decorator;
 
 import java.util.Base64;
 

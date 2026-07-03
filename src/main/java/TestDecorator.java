@@ -1,12 +1,9 @@
-package main.java;
-
-import main.java.com.notifications.decorator.EncryptedNotificationDecorator;
-import main.java.com.notifications.decorator.Notification;
-import main.java.com.notifications.decorator.SimpleNotification;
-import main.java.com.notifications.decorator.TimestampedNotificationDecorator;
-import main.java.com.notifications.observer.LoggingObserver;
-import main.java.com.notifications.observer.MetricsObserver;
-import main.java.decorator.*;
+import com.notifications.decorator.EncryptedNotificationDecorator;
+import com.notifications.decorator.Notification;
+import com.notifications.decorator.SimpleNotification;
+import com.notifications.decorator.TimestampedNotificationDecorator;
+import com.notifications.observer.LoggingObserver;
+import com.notifications.observer.MetricsObserver;
 
 public class TestDecorator {
     

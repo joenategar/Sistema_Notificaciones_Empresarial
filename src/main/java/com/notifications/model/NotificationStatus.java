@@ -1,4 +1,4 @@
-package main.java.com.notifications.model;
+package com.notifications.model;
 
 // Enum de estados
 

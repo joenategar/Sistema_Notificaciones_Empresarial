@@ -1,9 +1,7 @@
-package main.java;
-
-import main.java.com.notifications.decorator.Notification;
-import main.java.com.notifications.model.NotificationStatus;
-import main.java.com.notifications.observer.LoggingObserver;
-import main.java.com.notifications.observer.MetricsObserver;
+import com.notifications.decorator.Notification;
+import com.notifications.model.NotificationStatus;
+import com.notifications.observer.LoggingObserver;
+import com.notifications.observer.MetricsObserver;
 
 public class TestObserver {
     

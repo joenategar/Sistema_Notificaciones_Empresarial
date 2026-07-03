@@ -1,6 +1,6 @@
-package main.java.com.notifications.decorator;
+package com.notifications.decorator;
 
-import main.java.com.notifications.model.NotificationStatus;
+import com.notifications.model.NotificationStatus;
 
 public class SimpleNotification extends Notification {
     

@@ -1,5 +1,5 @@
 package com.notifications.observer;
-import main.java.com.notifications.model.NotificationStatus;
+import com.notifications.model.NotificationStatus;
 
 // Interface del observador
 

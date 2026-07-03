@@ -1,9 +1,9 @@
-package main.java.com.notifications.observer;
+package com.notifications.observer;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-import main.java.com.notifications.model.NotificationStatus;
+import com.notifications.model.NotificationStatus;
 
 public class LoggingObserver implements NotificationObserver {
     
